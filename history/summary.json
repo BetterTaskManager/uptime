@@ -1,20 +1,20 @@
 [
   {
-    "name": "Main Site",
+    "name": "https://bettertaskmanager.com",
     "url": "https://bettertaskmanager.com",
     "icon": "https://icons.duckduckgo.com/ip3/bettertaskmanager.com.ico",
-    "slug": "main-site",
+    "slug": "https-bettertaskmanager-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
