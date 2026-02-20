@@ -20,6 +20,8 @@ status-website:
   introTitle: "Better Task Manager - Status"
   introMessage: "Check the uptime and response time of Better Task Manager and its services."
   navbar:
+    - title: Main Site
+      href: https://bettertaskmanager.com
     - title: Status
       href: /
     - title: GitHub
